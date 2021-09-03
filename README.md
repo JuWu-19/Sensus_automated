@@ -1,6 +1,7 @@
 # SensUs
 
 ## Objectives
+- the main code is modified from SensUs 2019 and adds real time image acquisition feature
 - live stream mode for focus tuning
 - capture mode and image processing for concentration computing
 ## How to use
